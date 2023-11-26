@@ -1,0 +1,8 @@
+[colors]
+border = 9E48FFFF
+background = 15131AFF
+text = FFFCEDFF
+match = 4560FFFF
+selection = 9E48FFFF
+selection-text = FFFCEDFF
+selection-match = 30FFEFFF
